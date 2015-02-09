@@ -17,7 +17,7 @@ body{
 	color: #000000;
 }
 
-div, p, ul, h2, h3, h4, h5, form, img{
+div, p, ul, h2, h3, h4, h5 {
 	padding: 0px;
 	margin: 0px
 }
@@ -36,10 +36,3 @@ ul {
 	font-family: "Times New Roman Black", Gadget, sans-serif;
 	color: black;
 }
-
-.border {
-	border-style: solid;
-	border-width: medium;
-	border-color: #4F2582;
-}
-
